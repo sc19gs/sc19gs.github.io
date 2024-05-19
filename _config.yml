@@ -24,7 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Gaurav Singh"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Pusruing Doctor of Philosophy in Computer Science with reseach area in 
+                      Networked Robotics and applying Machine Learning algorithms on Digital Communications"
   location         : "Arlington, Texas, USA"
   employer         : "University of Texas at Arlington"
   uri              : # URL
@@ -43,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "sc19gs"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
