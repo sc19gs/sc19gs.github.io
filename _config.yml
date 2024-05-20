@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Gaurav Singh"
+title                    : "Gaurav Singh's Homepage"
 title_separator          : "-"
 name                     : &name "Gaurav Singh"
 description              : &description "personal description"
@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Gaurav Singh"
   pronouns         : # example: "she/her"  
-  bio              : "Pursuing PhD in Computer Science under the supervision of Dr. Debashri Roy. I have reseach interests in 
-                      Networked Robotics and applying Machine Learning algorithms on Digital Communications"
+  bio              : "PhD Student at University of Texas at Arlington. \nSupervisor: Dr. Debashri Roy\n Reseach Interests: 
+                      Networked Robotics and Applied Machine Learning on Digital Communications."
   location         : "Arlington, Texas, USA"
   employer         : "University of Texas at Arlington"
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : gauravsingh337 # Username
+  linkedin         : "gauravsingh337" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
