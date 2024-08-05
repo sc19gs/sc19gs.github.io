@@ -10,7 +10,7 @@ Currently I am pursuing PhD in Computer Science at the University of Texas at Ar
 I am doing my research under the supervision of Dr. Debashri Roy.
 My research interests are in Networked Robotics and Applied Machine Learning on Digital Communications.
 
-I have completed my bachelor of technology in Software Engineering from Delhi Technological University, Delhi, India. I have completed my Master of Science in Advanced Computer Science (Artificial Intelligence) from University of Leeds, UK. 
+I have completed my bachelor of technology in Software Engineering from Delhi Technological University, Delhi, India. I have completed my Master of Science in Advanced Computer Science (Artificial Intelligence) from University of Leeds, UK    Hello. 
 
 <!-- A data-driven personal website
 ======
