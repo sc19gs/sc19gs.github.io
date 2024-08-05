@@ -14,7 +14,7 @@ name                     : &name "Gaurav Singh"
 description              : &description "personal description"
 url                      : https://sc19gs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "sc19gs/sc19gs.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Gaurav Singh"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student at University of Texas at Arlington. \nSupervisor: Dr. Debashri Roy\n Reseach Interests: 
+  bio              : "PhD Student at University of Texas at Arlington. Supervisor: Dr. Debashri Roy Reseach Interests: 
                       Networked Robotics and Applied Machine Learning on Digital Communications."
   location         : "Arlington, Texas, USA"
   employer         : "University of Texas at Arlington"
@@ -32,13 +32,13 @@ author:
   email            : "gaurav.singh4@mavs.uta.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            :  # URL - Update with the correct link to your profile
   # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   # impactstory      : # URL
-  # orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0007-4918-409X"
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     :  https://www.researchgate.net/profile/Gaurav_Singh200 # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
