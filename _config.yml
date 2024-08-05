@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Gaurav Singh's Homepage"
+title                    : "Gaurav Singh"
 title_separator          : "-"
 name                     : &name "Gaurav Singh"
 description              : &description "personal description"
@@ -24,7 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Gaurav Singh"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student at the department of Computer Science and Engineering at the University of Texas at Arlington."
+  bio              : "PhD Student at the 
+                      department of Computer Science and Engineering at the University of Texas at Arlington."
   location         : "Arlington, Texas, USA"
   employer         : "University of Texas at Arlington"
   uri              : # URL
