@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p style = "text-align:justify">Currently I am pursuing PhD in Computer Science at the University of Texas at Arlington. 
-I am doing my research under the supervision of <ins>Dr. Debashri Roy</ins>.
+I am doing my research under the supervision of **<ins>Dr. Debashri Roy</ins>**.
 My research interests are in Networked Robotics and Applied Machine Learning on Digital Communications.</p>
 
 <p style = "text-align:justify">I have completed my bachelor of technology in Software Engineering from Delhi Technological University, Delhi, India. I have completed my Master of Science in Advanced Computer Science (Artificial Intelligence) from University of Leeds, UK.</p>
