@@ -1,12 +1,12 @@
----
-title: "Paper Title Number 4"
+<!-- ---
+title: "Decision Tree J48 at SemEval-2020 Task 9: Sentiment Analysis for Code-Mixed Social Media Text (Hinglish)"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+excerpt: 'This paper discusses the application of the WEKA as the tool for performing Sentiment Analysis of Hinglish.'
+date: 2020-08-26
+venue: 'arxiv'
+paperurl: 'http://arxiv.org/abs/2008.11398'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper discusses the design of the system used for providing a solution for the problem given at SemEval-2020 Task 9 where sentiment analysis of code-mixed language Hindi and English needed to be performed. This system uses Weka as a tool for providing the classifier for the classification of tweets and python is used for loading the data from the files provided and cleaning it. Only part of the training data was provided to the system for classifying the tweets in the test data set on which evaluation of the system was done. The system performance was assessed using the official competition evaluation metric F1-score. Classifier was trained on two sets of training data which resulted in F1 scores of 0.4972 and 0.5316. -->
