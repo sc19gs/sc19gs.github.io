@@ -1,12 +1,12 @@
-<!-- ---
-title: "Decision Tree J48 at SemEval-2020 Task 9: Sentiment Analysis for Code-Mixed Social Media Text (Hinglish)"
+---
+title: "SauRON: Smart Surveillance using Robotic Swarms with Optimized Networks"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper discusses the application of the WEKA as the tool for performing Sentiment Analysis of Hinglish.'
-date: 2020-08-26
-venue: 'arxiv'
-paperurl: 'http://arxiv.org/abs/2008.11398'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+date: 2025-02-24
+venue: 'IEEE International Conference on Computer Communications (INFOCOM), (NetRobiCS). [Best Paper Award]'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5143487'
+citation: 'Singh, Gaurav and Amatare, Sunday and Roy, Debashri, SauRON: Smart Surveillance using Robotic Swarms with Optimized Networks (January 01, 2025). Available at SSRN: https://ssrn.com/abstract=5143487'
 ---
 
-This paper discusses the design of the system used for providing a solution for the problem given at SemEval-2020 Task 9 where sentiment analysis of code-mixed language Hindi and English needed to be performed. This system uses Weka as a tool for providing the classifier for the classification of tweets and python is used for loading the data from the files provided and cleaning it. Only part of the training data was provided to the system for classifying the tweets in the test data set on which evaluation of the system was done. The system performance was assessed using the official competition evaluation metric F1-score. Classifier was trained on two sets of training data which resulted in F1 scores of 0.4972 and 0.5316. -->
+Smart surveillance is crucial for enhancing situational awareness and ensuring timely responses in dynamic environments. However, a significant challenge is the strategic placement of various surveillance entities within the dynamic environments to ensure full coverage. In this paper, we propose an innovative framework SauRON for efficient area mapping using a swarm of autonomous robots for such strategic placement of those robots working as surveillance entity. SauRON has three modules that operate in an interconnected manner: (i) robots independently navigate in random directions, gathering preliminary data and covering portions of the target area; (ii) the robots establish a communication network and select a leader which provides minimum aggregated latency, dynamically optimizing connections to ensure robust swarm connectivity and efficient data transmission; and (iii) by leveraging initial exploration data, the leader instructs the other robots to reposition to cover the overall area. SauRON's sensing data compression approach effectively overcomes the challenge of data management in heterogeneous environments, offering significant potential for applications in search and rescue, environmental monitoring, and other scenarios demanding precise area mapping by robotic swarms. Through extensive simulation, we show SauRON provides 38% improvement in blind spot coverage in highly dynamic scenarios.
