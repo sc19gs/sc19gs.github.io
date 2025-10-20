@@ -2,7 +2,7 @@
 title: "SauRON: Smart Surveillance using Robotic Swarms with Optimized Networks"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper discusses the application of the WEKA as the tool for performing Sentiment Analysis of Hinglish.'
+excerpt: 'This paper discusses the strategic placement of swarm of robots within the dynamic environments to ensure full coverage implemented using Reinforcement Learning.'
 date: 2025-02-24
 venue: 'IEEE International Conference on Computer Communications (INFOCOM), (NetRobiCS). [Best Paper Award]'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5143487'
