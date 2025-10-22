@@ -1,12 +1,12 @@
-<!-- ---
-title: "SauRON: Smart Surveillance using Robotic Swarms with Optimized Networks"
+---
+title: "Real-Time Localization of Objects using Radio Frequency Propagation in Digital Twin"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper discusses the application of the WEKA as the tool for performing Sentiment Analysis of Hinglish.'
-date: 2025-02-24
-venue: 'IEEE International Conference on Computer Communications (INFOCOM), (NetRobiCS). [Best Paper Award]'
+permalink: /publication/2024-02-17-paper-title-number-7
+excerpt: 'This paper introduces an innovative real-time object localization system within a digital twin, designed to detect and locate objects within an environment.'
+date: 2024-10-28
+venue: 'MILCOM 2024 - 2024 IEEE Military Communications Conference (MILCOM)'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5143487'
-citation: 'Singh, Gaurav and Amatare, Sunday and Roy, Debashri, SauRON: Smart Surveillance using Robotic Swarms with Optimized Networks (January 01, 2025). Available at SSRN: https://ssrn.com/abstract=5143487'
+citation: 'S. Amatare, G. Singh, A. Kharel and D. Roy, "Real-Time Localization of Objects using Radio Frequency Propagation in Digital Twin," MILCOM 2024 - 2024 IEEE Military Communications Conference (MILCOM), Washington, DC, USA, 2024, pp. 653-654, doi: 10.1109/MILCOM61039.2024.10774060. keywords: {Location awareness;Radio frequency;Military communication;Shape;Training data;Real-time systems;Digital twins;Sensors;Reliability;Object recognition;Digital Twin;RF propagation;Object localization},'
 ---
 
-Smart surveillance is crucial for enhancing situational awareness and ensuring timely responses in dynamic environments. However, a significant challenge is the strategic placement of various surveillance entities within the dynamic environments to ensure full coverage. In this paper, we propose an innovative framework SauRON for efficient area mapping using a swarm of autonomous robots for such strategic placement of those robots working as surveillance entity. SauRON has three modules that operate in an interconnected manner: (i) robots independently navigate in random directions, gathering preliminary data and covering portions of the target area; (ii) the robots establish a communication network and select a leader which provides minimum aggregated latency, dynamically optimizing connections to ensure robust swarm connectivity and efficient data transmission; and (iii) by leveraging initial exploration data, the leader instructs the other robots to reposition to cover the overall area. SauRON's sensing data compression approach effectively overcomes the challenge of data management in heterogeneous environments, offering significant potential for applications in search and rescue, environmental monitoring, and other scenarios demanding precise area mapping by robotic swarms. Through extensive simulation, we show SauRON provides 38% improvement in blind spot coverage in highly dynamic scenarios. -->
+A digital twin is a virtual representation of a physical object, system, or process that is used to simulate, predict, and optimize its performance in real-time. This digital counterpart is created using data from sensors and other sources to reflect the state and behavior of the physical counterpart. In this demo paper, we introduce an innovative real-time object localization system within a digital twin, designed to detect and locate objects within an environment. We demonstrate our system using a digital twin setup that leverages Blender tool and RF propagation with NVIDIA’s Sionna RT. Our results illustrate that real-time object localization can be effectively achieved through our framework. This demo offers valuable insights into the potential of our framework as a reliable and efficient method for performing real-time object localization.
