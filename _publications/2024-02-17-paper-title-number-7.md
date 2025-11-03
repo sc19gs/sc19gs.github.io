@@ -1,7 +1,7 @@
 ---
 title: "Real-Time Localization of Objects using Radio Frequency Propagation in Digital Twin"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-7
+# permalink: /publication/2024-02-17-paper-title-number-7
 excerpt: 'This paper introduces an innovative real-time object localization system within a digital twin, designed to detect and locate objects within an environment.'
 date: 2024-10-28
 venue: 'MILCOM 2024 - 2024 IEEE Military Communications Conference (MILCOM)'

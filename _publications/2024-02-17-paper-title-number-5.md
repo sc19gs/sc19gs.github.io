@@ -1,7 +1,7 @@
 ---
 title: "POSTER: Analysis of Latency for Wireless Connectivity in Networked Robots"
 collection: publications
-permalink: /publication/2025-05-30-paper-title-number-5
+# permalink: /publication/2025-05-30-paper-title-number-5
 excerpt: 'This study presents a comparative analysis of various types of communication latency in networked robotic setup.'
 date: 2025-05-30
 venue: '2025 IEEE 26th International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)'

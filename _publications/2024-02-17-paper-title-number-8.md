@@ -1,7 +1,7 @@
 ---
 title: "RagNAR: Ray-tracing based Navigation for Autonomous Robot in Unstructured Environment"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-8
+# permalink: /publication/2024-02-17-paper-title-number-8
 excerpt: 'This paper introduces a novel concept of Radio Frequency (RF) map creation derived from ray-tracing within a digital twin of an unstructured environment and proposes a reinforcement learning based approach to facilitate robot navigation.'
 date: 2024-12-08
 venue: 'GLOBECOM 2024 - 2024 IEEE Global Communications Conference

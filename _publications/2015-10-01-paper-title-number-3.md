@@ -1,7 +1,7 @@
 ---
 title: "Speclearn: Spectrum Learning in Shared Band Under Extreme Noise Conditions"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+# permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper focuses on the detection of radar signals within the shared spectrum such as the Citizen Broadband Radio Service band employing YOLO algorithms under the influence of various noisy conditions.'
 date: 2024-10-01
 venue: 'IEEE International Symposium on Dynamic Spectrum Access Networks'

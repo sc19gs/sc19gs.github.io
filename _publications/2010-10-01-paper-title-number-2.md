@@ -1,7 +1,7 @@
 ---
 title: "Sentiment Analysis of Code-Mixed Social Media Text (Hinglish)"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+# permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper discusses the results of applying various machine learning algorithms and vectorization techniques to perform the sentiment analysis of Hinglish.'
 date: 2021-02-24
 venue: 'arxiv'

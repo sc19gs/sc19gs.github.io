@@ -1,7 +1,7 @@
 ---
 title: "Decision Tree J48 at SemEval-2020 Task 9: Sentiment Analysis for Code-Mixed Social Media Text (Hinglish)"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+# permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper discusses the application of the WEKA as the tool for performing Sentiment Analysis of Hinglish.'
 date: 2020-08-26
 venue: 'arxiv'

@@ -1,7 +1,7 @@
 ---
 title: "Spec-SCAN: Spectrum Learning in Shared Channel using Neural Networks"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-6
+# permalink: /publication/2024-02-17-paper-title-number-6
 excerpt: 'This paper presents a novel supervised deep learning framework for radar detection in CBRS Band.'
 date: 2025-01-10
 venue: '2025 IEEE 22nd Consumer Communications & Networking Conference (CCNC)'
