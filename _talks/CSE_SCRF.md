@@ -2,7 +2,7 @@
 title: "First Prize for Teaching Assistant (TA) at CSE SCRF workshop held at UTA"
 collection: talks
 type: "Talk"
-permalink: /talks/CSE_SCRF
+permalink: /files/Certificates/paper1.pdf
 venue: "University of Texas at Arlington"
 date: 2024-02-19
 location: "Arlington, Texas, USA"
