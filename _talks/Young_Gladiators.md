@@ -1,7 +1,7 @@
 ---
 title: "NSF Travel Grant to Participate in Colosseum Young Gladiators 2024"
 collection: talks
-type: "Talk"
+type: "Grant"
 permalink: /talks/2012-03-01-talk-1
 venue: "University of Texas at Arlington"
 date: 2024-06-01

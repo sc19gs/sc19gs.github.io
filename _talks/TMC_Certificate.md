@@ -1,7 +1,7 @@
 ---
 title: "IEEE Transactions on Mobile Computing 2025 Reviewer Certificate"
 collection: talks
-type: "Talk"
+type: "IEEE Certificate"
 permalink: /talks/TMC
 venue: "Institute of Electrical and Electronics Engineers (IEEE)"
 date: 2026-02-19

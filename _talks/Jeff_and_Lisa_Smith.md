@@ -1,7 +1,7 @@
 ---
 title: "Jeff and Lisa Smith Outstanding Graduate Researcher Award"
 collection: talks
-type: "University Award"
+type: "University Scholarship Award"
 permalink: /talks/2014-02-01-talk-2
 venue: "The University of Texas at Arlington"
 date: 2025-04-05

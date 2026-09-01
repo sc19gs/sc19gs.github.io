@@ -1,7 +1,7 @@
 ---
 title: "Dr. Ramez Elmasri Endowed Scholarship Fund Award (2026)"
 collection: talks
-type: "Talk"
+type: "University Scholarship Award"
 permalink: /talks/Ramez_scholarship
 venue: "University of Texas at Arlington"
 date: 2026-04-16

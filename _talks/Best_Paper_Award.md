@@ -1,7 +1,7 @@
 ---
 title: "Best Paper Award for paper - SauRON: Smart Surveillance using Robotic Swarms with Optimized Networks."
 collection: talks
-type: "Workshop Paper"
+type: "Best Paper Award"
 permalink: /talks/2014-03-01-talk-3
 venue: "IEEE International Conference on Computer Communications (INFOCOM), (NetRobiCS)"
 date: 2025-05-20
