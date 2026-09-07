@@ -1,7 +1,7 @@
 ---
 title: "Realizing the 6G-Enabled Industrial Internet of Robotic Things: Targets, Enablers, and a Case Study"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/6g-iiort
 excerpt: 'This paper explores the evolution towards 6th Generation (6G)-enabled IIoRT, addressing critical 5G limitations regarding latency determinism, ultra-reliability, and massive connection density.'
 date: 2026-04-27
 venue: 'IEEE Internet of Things Magazine ( Early Access )'

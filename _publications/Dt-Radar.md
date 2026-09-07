@@ -1,7 +1,7 @@
 ---
 title: "Dt-radar: Digital twin assisted robot navigation using differential ray-tracing"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/dt-radar
 excerpt: 'In this paper, we propose DT-RaDaR, a robust privacy-preserving, deep reinforcement learning-based framework for robot navigation that leverages RF ray-tracing in both static and dynamic indoor scenarios as well as in smart cities.'
 date: 2024-12-08
 venue: 'Arxiv'

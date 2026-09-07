@@ -1,7 +1,7 @@
 ---
 title: "PROTEUS: Proactive Latency-Constrained Enhanced Ubiquitous Surveillance"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/proteus
 excerpt: 'In this paper we introduce a system for robotic swarms for autonomous surveillance to cover an entire area and meet tight communication-latency budgets using a computationally efficient approach.'
 date: 2026-06-03
 venue: '2026 24th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt)'

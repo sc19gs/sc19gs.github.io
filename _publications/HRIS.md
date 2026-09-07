@@ -1,8 +1,8 @@
 ---
 title: "Secure and Efficient Transmission in Hybrid Sparse RIS-Enabled Internet of Robotic Things"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'In this paper we propose a Hybrid RIS (HRIS)-assisted secure transmission framework, where a Base Station (BS) communicates with IoRT devices under eavesdropping by jointly exploiting active and passive RIS elements. We design a sparse HRIS that activates only a selected subset of elements, reducing power and hardware cost without compromising security.'
+permalink: /publication/hris
+excerpt: 'In this paper we propose a Hybrid RIS (HRIS)-assisted secure transmission framework, where a Base Station (BS) communicates with IoRT devices under eavesdropping by jointly exploiting active and passive RIS elements.'
 date: 2026-06-03
 venue: '2026 24th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt)'
 paperurl: 'https://doi.org/10.23919/WiOpt71098.2026.11568220'
