@@ -17,6 +17,9 @@ main:
     
   - title: "CV"
     url: /files/CV/Gaurav_CV 1.pdf
+
+  - title: "Gallery"
+    url: /gallery/
     
   # - title: "Guide"
   #   url: /markdown/

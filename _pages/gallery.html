@@ -1,0 +1,25 @@
+---
+layout: archive
+title: "Gallery"
+permalink: /gallery/
+author_profile: true
+---
+
+{% assign image_extensions = ".jpg,.jpeg,.png,.gif,.webp" | split: "," %}
+
+<div class="research-gallery">
+  {% assign gallery_files = site.static_files | sort: "path" %}
+  {% for file in gallery_files %}
+    {% if file.path contains "/files/Gallery/" %}
+      {% assign ext = file.extname | downcase %}
+      {% if image_extensions contains ext %}
+        <figure class="research-gallery__item">
+          <a href="{{ file.path | relative_url }}" target="_blank" rel="noopener">
+            <img src="{{ file.path | relative_url }}" alt="Research photo" loading="lazy">
+          </a>
+          <figcaption>{{ file.name }}</figcaption>
+        </figure>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>

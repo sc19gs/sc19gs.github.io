@@ -3,7 +3,7 @@ title: "Jeff and Lisa Smith Outstanding Graduate Researcher Award"
 collection: rewards
 type: "University Scholarship Award"
 permalink: /rewards/Jeff_and_Lisa_Smith
-certificate: "/files/Certificates/Jeff_and_Lisa_Smith.pdf"
+certificate: "/files/Certificates/Jeff_and_Lisa_Smith.jpeg"
 venue: "The University of Texas at Arlington"
 date: 2025-04-05
 location: "Arlington, Texas"
