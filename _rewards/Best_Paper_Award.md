@@ -3,7 +3,7 @@ title: "Best Paper Award for paper - SauRON: Smart Surveillance using Robotic Sw
 collection: rewards
 type: "Best Paper Award"
 permalink: /rewards/Best_Paper_Award
-certificate: "/files/Certificates/Best_Paper_Award.jpeg"
+certificate: "/files/Certificates/Best_Paper_Award.jpg"
 venue: "IEEE International Conference on Computer Communications (INFOCOM), (NetRobiCS)"
 date: 2025-05-20
 location: "London, United Kingdom"
