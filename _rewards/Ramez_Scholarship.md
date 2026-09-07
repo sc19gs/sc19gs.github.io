@@ -3,7 +3,7 @@ title: "Dr. Ramez Elmasri Endowed Scholarship Fund Award (2026)"
 collection: rewards
 type: "University Scholarship Award"
 permalink: /rewards/Ramez_Scholarship
-certificate: "/files/Certificates/Ramez_Scholarship.pdf"
+certificate: "/files/Certificates/Ramez_Scholarship.jpeg"
 venue: "University of Texas at Arlington"
 date: 2026-04-16
 location: "Arlington, Texas, USA"
