@@ -10,6 +10,8 @@ redirect_from:
 I am doing my research under the supervision of <strong><ins>Dr. Debashri Roy</ins></strong>.
 My research interests are in Networked Robotics and Applied Machine Learning on Digital Communications.</p>
 
+<p style = "text-align:justify">My research interests centre on AI-driven wireless communication systems with a focus on networked robotics for 6G and low latency wireless applications, use of reinforcement learning and multi-armed bandit algorithms for wireless networks optimization, digital twin assisted robot navigation, and spectrum learning. I am also strongly interested in real-world wireless testbed design, end-to-end learning for wireless communication, and AI-native protocol development for dense, low-latency, and highly mobile scenarios.</p>
+
 <p style = "text-align:justify">I have completed my bachelor of technology in Software Engineering from Delhi Technological University, Delhi, India. I have completed my Master of Science in Advanced Computer Science (Artificial Intelligence) from University of Leeds, UK.</p>
 
 <!-- A data-driven personal website
