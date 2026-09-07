@@ -47,10 +47,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Rewards and Recognitions
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+  <ul>{% for post in site.rewards reversed %}
+    {% include archive-single-reward-cv.html %}
   {% endfor %}</ul>
   
 Teaching
