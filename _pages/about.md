@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style = "text-align:justify">Currently I am pursuing PhD in Computer Science at the University of Texas at Arlington. 
+<p style = "text-align:justify">I am pursuing PhD in Computer Science at the University of Texas at Arlington and am currently in my fourth year. 
 I am doing my research under the supervision of <strong><ins>Dr. Debashri Roy</ins></strong>.
-My research interests are in Networked Robotics and Applied Machine Learning on Digital Communications.</p>
+My research interests are in Wireless Communications, Networked Robotics, Digital Communications, and Applied Machine Learning and Reinforcement Learning on Wireless Communications.</p>
 
 <p style = "text-align:justify">My research interests centre on AI-driven wireless communication systems with a focus on networked robotics for 6G and low latency wireless applications, use of reinforcement learning and multi-armed bandit algorithms for wireless networks optimization, digital twin assisted robot navigation, and spectrum learning. I am also strongly interested in real-world wireless testbed design, end-to-end learning for wireless communication, and AI-native protocol development for dense, low-latency, and highly mobile scenarios.</p>
 
