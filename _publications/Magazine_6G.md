@@ -5,7 +5,7 @@ permalink: /publication/6g-iiort
 excerpt: 'This paper explores the evolution towards 6th Generation (6G)-enabled IIoRT, addressing critical 5G limitations regarding latency determinism, ultra-reliability, and massive connection density.'
 date: 2026-04-27
 venue: 'IEEE Internet of Things Magazine ( Early Access )'
-paperurl: 'http://arxiv.org/abs/2008.11398'
+paperurl: 'https://ieeexplore.ieee.org/document/11494753'
 citation: 'G. Singh, S. Amatare, E. Natalizio, and D. Roy, "Realizing the 6G-Enabled Industrial Internet of Robotic Things: Targets, Enablers, and a Case Study," IEEE Internet of Things Magazine, early access, 2026, doi: 10.1109/MIOT.2026.3678202.'
 ---
 
