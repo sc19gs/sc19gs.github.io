@@ -5,7 +5,7 @@ permalink: /publication/2024-02-17-paper-title-number-7
 excerpt: 'This paper introduces an innovative real-time object localization system within a digital twin, designed to detect and locate objects within an environment.'
 date: 2024-10-28
 venue: 'MILCOM 2024 - 2024 IEEE Military Communications Conference (MILCOM)'
-paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5143487'
+paperurl: 'https://ieeexplore.ieee.org/document/10774060'
 citation: 'S. Amatare, G. Singh, A. Kharel and D. Roy, "Real-Time Localization of Objects using Radio Frequency Propagation in Digital Twin," MILCOM 2024 - 2024 IEEE Military Communications Conference (MILCOM), Washington, DC, USA, 2024, pp. 653-654, doi: 10.1109/MILCOM61039.2024.10774060. keywords: {Location awareness;Radio frequency;Military communication;Shape;Training data;Real-time systems;Digital twins;Sensors;Reliability;Object recognition;Digital Twin;RF propagation;Object localization},'
 ---
 
