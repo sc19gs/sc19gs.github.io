@@ -6,7 +6,7 @@ excerpt: 'This paper discusses the strategic placement of swarm of robots within
 date: 2025-02-24
 venue: 'IEEE International Conference on Computer Communications (INFOCOM), (NetRobiCS). [Best Paper Award]'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11152894'
-citation: 'Singh, Gaurav and Amatare, Sunday and Roy, Debashri, SauRON: Smart Surveillance using Robotic Swarms with Optimized Networks (January 01, 2025).
+citation: 'Singh, Gaurav and Amatare, Sunday and Roy, Debashri, SauRON: Smart Surveillance using Robotic Swarms with Optimized Networks (January 01, 2025).'
 doi: https://doi.org/10.1109/INFOCOMWKSHPS65812.2025.11152894
 ---
 
